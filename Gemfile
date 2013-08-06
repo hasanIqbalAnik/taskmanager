@@ -12,6 +12,12 @@ gem 'bootstrap-sass'
 gem 'twitter-bootstrap-rails'
 gem 'bootswatch-rails'
 
+
+gem 'devise'
+
+gem 'omniauth'
+gem 'omniauth-facebook'
+gem 'omniauth-twitter'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
